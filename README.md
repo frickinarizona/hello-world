@@ -1,4 +1,11 @@
-# hello-world
-I have no idea what I'm doing
-
-I don't know what I'm doing halp this is the hard what even is life in general
+<DOCTYPE! html>
+<html>
+  <head>
+  <title>Practice on Gihub</title>
+  <meta charset= "utf-8">
+  </head>
+  <body>
+  <p>Hello world!</p>
+  
+  </body>
+</html>
